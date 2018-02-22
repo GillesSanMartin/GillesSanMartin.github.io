@@ -1,5 +1,4 @@
 
-
 # Honey bee winter mortality
 
 Honey bee winter mortality from the Belgian Coloss survey (2016-2017) : 
