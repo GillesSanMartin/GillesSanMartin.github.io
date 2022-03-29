@@ -31,3 +31,13 @@ Honey bee winter mortality from the Belgian Coloss survey (winter 2019-2020) :
 * In het [Nederlands](https://gillessanmartin.github.io/misc/Coloss_Be_2019_NL.html)
 * En [français](https://gillessanmartin.github.io/misc/Coloss_Be_2019_FR.html)
 * In [Deutsch](https://gillessanmartin.github.io/misc/Coloss_Be_2019_D.html)
+
+
+Honey bee winter mortality from the Belgian Coloss survey (winter 2020-2021) : 
+
+* In [English](https://gillessanmartin.github.io/misc/Coloss_Be_2020_UK.html)
+* In het [Nederlands](https://gillessanmartin.github.io/misc/Coloss_Be_2020_NL.html)
+* En [français](https://gillessanmartin.github.io/misc/Coloss_Be_2020_FR.html)
+* In [Deutsch](https://gillessanmartin.github.io/misc/Coloss_Be_2020_D.html)
+
+
