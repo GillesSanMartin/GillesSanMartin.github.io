@@ -51,5 +51,6 @@ Honey bee winter mortality from the Belgian Coloss survey (winter 2021-2022) :
 Honey bee winter mortality from the Belgian Coloss survey (winter 2022-2023) : 
 
 * In [English](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2022_2023_en.html)
+* In het [Nederlands](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2022_2023_nl.html)
 * En [français](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2022_2023_fr.html)
 
