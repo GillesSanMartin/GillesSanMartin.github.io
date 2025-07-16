@@ -60,5 +60,10 @@ Honey bee winter mortality from the Belgian Coloss survey (winter 2023-2024) :
 * In het [Nederlands](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2023_2024_nl.html)
 * En [français](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2023_2024_fr.html)
 
+Honey bee winter mortality from the Belgian Coloss survey (winter 2024-2025) : 
+
+* In [English](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2024_2025_en.html)
+* In het [Nederlands](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2024_2025_nl.html)
+* En [français](https://gillessanmartin.github.io/misc/COLOSS_dashboard_2024_2025_fr.html)
 
 
